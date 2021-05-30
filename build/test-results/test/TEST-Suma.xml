@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Suma" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-05-30T02:29:30" hostname="DESKTOP-7NVI6VL" time="8.161">
+  <properties/>
+  <testcase name="Suma de dos numeros" classname="Suma" time="7.742"/>
+  <testcase name="Multiplicacion de dos numeros" classname="Suma" time="0.414"/>
+  <system-out><![CDATA[org.json.JSONException: JSONObject["AddResponse"] not found.
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

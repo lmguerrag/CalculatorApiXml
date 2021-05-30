@@ -1,0 +1,7 @@
+
+Œ
+java:S1319"oThe type of the "headers" object should be an interface such as "Map" rather than the implementation "HashMap".(ÿÓáÉ8ÊÖÓ®›/
+‘
+java:S1319"oThe type of the "headers" object should be an interface such as "Map" rather than the implementation "HashMap".(Á·Â”ûÿÿÿÿ8ß Õ®›/
+Y
+java:S1128"<Remove this unused import 'io.restassured.http.ContentType'.(ïè‘8’ã®›/

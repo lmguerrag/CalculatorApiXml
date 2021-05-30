@@ -1,0 +1,6 @@
+co/com/sofka/calculator/test/task/PostRequest.java
+ co.com.sofka.calculator.test.task.PostRequest
+co/com/sofka/calculator/test/model/BodyRequest.java
+ co.com.sofka.calculator.test.model.BodyRequest
+co/com/sofka/calculator/test/data/BodyReader.java
+ co.com.sofka.calculator.test.data.BodyReader
